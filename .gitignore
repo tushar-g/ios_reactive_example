@@ -1,0 +1,10 @@
+Pods/
+Carthage/
+
+# Mac Journalized Files
+.DS_Store
+.Trashes
+*.swp
+*.lock
+
+
